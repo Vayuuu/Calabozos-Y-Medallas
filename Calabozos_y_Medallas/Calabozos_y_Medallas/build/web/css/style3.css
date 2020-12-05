@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3/12/2020, 08:45:45 AM
+    Author     : Eda
+*/
+
+ .pantalla{
+  
+    background: url('img/2.png') no-repeat center; 
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.container{ 
+	 
+	justify-content: center;
+	align-items: center;
+        margin-left: 0;
+        margin-right: 0;
+}      
+    
